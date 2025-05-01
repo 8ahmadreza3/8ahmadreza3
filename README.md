@@ -3,15 +3,14 @@
 <br/>
 <h2>🙋‍♂️Hi, I'm AhmadReza</h2>
 <br/>
-<h4>I am a full stack programmer and computer engineering student who enjoys learning to code and looking to challenge my skills.</h4>
-
- 
+<h4>I am a MERN-Stack programmer and computer engineering student who enjoys learning to code and looking to challenge my skills.</h4>
+![stats](https://github-readme-stats-8ahmadreza3s-projects.vercel.app/api/top-langs/?username=8ahmadreza3&layout=donut&theme=radical&count_private=true&langs_count=10)  
 ```javascript
   AhmadReza: {
-    languages: [Persian,English],
+    languages: [ Persian, English ],
     skills:[
       WebDeveloper,
-      FullStackDeveloper,
+      MERNStackDeveloper,
       ComputerEngineer
     ]
   }
