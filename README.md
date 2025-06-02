@@ -7,8 +7,6 @@
 <h4>I am a MERN-Stack programmer and computer engineering student who enjoys learning to code and looking to challenge my skills.</h4>   
 
 
-![Top Langs](https://github-readme-stats-8ahmadreza3s-projects.vercel.app/api/top-langs/?username=8ahmadreza3&layout=donut&theme=radical&count_private=true&langs_count=10)
-
 ```javascript
   AhmadReza: {
     languages: [ Persian, English ],
@@ -31,3 +29,7 @@
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ahmadrezahosseinpour)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/arezhp) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/8ahmadreza3/) 
+<br>
+
+![Top Langs](https://github-readme-stats-8ahmadreza3s-projects.vercel.app/api/top-langs/?username=8ahmadreza3&layout=donut&theme=radical&count_private=true&langs_count=10)
+
